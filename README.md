@@ -1,7 +1,7 @@
 # Machine-Learning-week-8-16
 ![image](https://github.com/user-attachments/assets/398e1712-2730-4525-97c9-7a30bf2fda22)
 ## Bagian I. Dasar-dasar Pembelajaran Mesin		
-1.	Lanskap Pembelajaran Mesin	1
+### Lanskap Pembelajaran Mesin	1
   - Apa Itu Pembelajaran Mesin?	2
   - Mengapa Menggunakan Pembelajaran Mesin?	2
   - Contoh Aplikasi	5
